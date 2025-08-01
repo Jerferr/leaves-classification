@@ -1,6 +1,5 @@
 # Dataset directories
 data/
-datasets/
 
 # Model weights and checkpoints
 *.pth
